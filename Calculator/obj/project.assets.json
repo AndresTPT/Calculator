@@ -1484,24 +1484,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ta-19E-133\\.nuget\\packages\\": {},
+    "C:\\Users\\TA-19E-133\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\mobiil\\TA-19E-main\\Calculator\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\mobiil\\Calculator\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\mobiil\\TA-19E-main\\Calculator\\Calculator\\Calculator.csproj",
-      "packagesPath": "C:\\Users\\Ta-19E-133\\.nuget\\packages\\",
-      "outputPath": "C:\\mobiil\\TA-19E-main\\Calculator\\Calculator\\obj\\",
+      "projectPath": "C:\\mobiil\\Calculator\\Calculator\\Calculator.csproj",
+      "packagesPath": "C:\\Users\\TA-19E-133\\.nuget\\packages\\",
+      "outputPath": "C:\\mobiil\\Calculator\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ta-19E-133\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\TA-19E-133\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

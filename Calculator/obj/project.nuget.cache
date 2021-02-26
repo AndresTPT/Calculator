@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aWPNAxhicG3G/VwNcY+p/7AOR7lFC4rWi5KpYHJ7yEC78nd3LAGsLYBkKCH3V+eXdYQ9rNNKlrQYR7k37gLAJw==",
+  "dgSpecHash": "Xke7+xrAYo5n8NPG6pXbqY6TGS90x0cMDMPuCobhoDReLqk7BO6UNJ1jmk2+GN9gl5AMUMSZJ7Q0IxVVPpM4Bg==",
   "success": true,
-  "projectFilePath": "C:\\mobiil\\TA-19E-main\\Calculator\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\mobiil\\Calculator\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
